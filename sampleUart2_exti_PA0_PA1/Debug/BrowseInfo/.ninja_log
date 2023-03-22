@@ -1,0 +1,92 @@
+# ninja log v5
+122	210	6995233526302825	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+254	371	6995153701248980	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/uart2.pbi	fe05dba88ba59c89
+65	381	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2a57f9b76ca90dd8
+94	345	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/main.xcl	c7f9137c7fd80a7c
+133	257	6995153699999077	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	4553bbd548d894d3
+187	261	6995137311671768	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbd	d425af3be0188612
+51	123	6994203041953301	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	d26baf243975efa7
+174	241	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/uart2.xcl	5471a36815935957
+115	395	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	8e240d9085b4373a
+68	295	6994246636729264	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	713dcb40898a04d
+53	483	6994203045434119	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/main.pbi	bc9c60fb2e1592f7
+39	489	6994203045590797	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	343ce87783663efd
+6	128	6995153698749551	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/misc.pbi	347abc79ed723f99
+99	174	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	9b0c58f9fac752bc
+493	931	6994203049934853	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/sample.pbd	7e2b8d034b3d9184
+935	2570	6994203066098951	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/sample.pbw	914705428b0d46a6
+4	135	6995153698749551	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	af005ca9ed5fcac5
+342	399	6994234383649784	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	573a208ee536c935
+26	337	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/main.xcl	2af45c1525cbd077
+1	67	6994246630000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	bf7a8abff7dce5c6
+124	236	6994246636139023	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	54b8a06446248d95
+23	341	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	8439763a3808bd2f
+4	358	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2a057da2bda51da2
+1	59	6994247510000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.xcl	1530398f4ba23e50
+7	127	6994246635023023	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	518752741bca7578
+28	361	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	c1740a1c7f82f1db
+126	253	6995153699999077	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	a2fe5bd85697c18
+338	410	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	23e1914b1e700310
+60	167	6994247516915994	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.pbi	413bd579d8db49c7
+2	118	6995137310109627	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/main.pbi	d01887bcf0879ee5
+11	135	6994246635132143	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	f4c66e8e7de8e837
+120	186	6995137310890898	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part2.pbi	f67bb7c01192dcc
+169	234	6994247517580300	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part0.pbi	aa7f3614d0cdb629
+372	413	6995153701560691	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part3.pbi	821f8d933647ad83
+6	100	6994247516235753	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part1.pbi	504488f9f2f135e8
+8	131	6995153698749551	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	840cd8a825616c75
+262	785	6995137316670073	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbw	379a324368e3a21a
+1	63	6994244820000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.xcl	5eadac269f09f14c
+136	260	6995153699999077	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	d435b194d04a6e6b
+263	354	6995153701092463	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part1.pbi	b8fdfeccbccee05e
+1	116	6994249195648312	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.pbi	cc3b9fc4261cfebe
+14	92	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	3a0a0146c520805
+106	195	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/misc.xcl	4af7d149ec96bd82
+17	99	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	559f54178b6b4015
+8	102	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	44b0cb20a73f6bee
+11	106	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	db05dc6b28e75480
+103	186	6995150300000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.xcl	6b789730902775d4
+186	216	6995150307783260	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	5bf38797708be5fe
+129	262	6995153700154776	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	679538265aadb0c
+257	325	6995153700780342	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part0.pbi	5a209ce28364ecfe
+1	120	6995233525521828	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+211	303	6995233527240169	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+303	843	6995233532550701	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	65	6995151150000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	e68effbbcf9d35a5
+1	59	6995153380000000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	6038b25b2331bccb
+1	123	6995235852406367	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+124	215	6995235853342985	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+216	335	6995235854436427	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+336	877	6995235859747677	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+2	123	6995239638973745	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+124	213	6995239639910751	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+215	307	6995239640847520	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+308	850	6995239646003220	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	125	6995240000163389	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+127	217	6995240000945198	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+219	311	6995240001881152	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+313	856	6995240007193059	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	121	6995240462248686	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+122	212	6995240463186685	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+213	307	6995240464123962	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+309	846	6995240469278292	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+2	120	6995242334957489	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+122	213	6995242335895522	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+215	308	6995242336832047	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+308	849	6995242341987085	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	121	6995246070141369	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+122	211	6995246071078649	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+215	307	6995246072015932	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+309	853	6995246077171551	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+2	121	6995251518666907	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+123	211	6995251519603448	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+213	304	6995251520540729	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+306	848	6995251525695767	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	124	6995258324973711	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+126	217	6995258325754977	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+219	314	6995258326848389	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+315	851	6995258332002842	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37
+1	120	6995259693591933	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/main.pbi	a0e63063a66562c5
+121	210	6995259694373000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2_part2.pbi	dd77a3ac275b257d
+213	306	6995259695311000	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbd	c2bbd0dddfabc9e4
+307	843	6995259700622186	C:/Users/IoT18/Documents/iar/sampleUart2_exti_PA0_PA1/Debug/BrowseInfo/sampleUart2.pbw	f11b214137094e37

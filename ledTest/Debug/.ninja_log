@@ -1,0 +1,12 @@
+# ninja log v5
+0	293	6994209852252954	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	a1409fdc32f51ed
+256	366	6994209852877384	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/COMM/stm32f4xx_it.o	b047910e29a98e12
+262	472	6994209853970879	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/main.o	646da567b8eb115a
+259	484	6994209854127086	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/COMM/system_stm32f4xx.o	3cd930e46ac0cca6
+367	526	6994209854439520	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/STM32/stm32f4xx_gpio.o	6fb569f66ecc2d77
+297	581	6994209855064373	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/STM32/stm32f4xx_rcc.o	65c4fad1164e76e6
+582	625	6994209855533007	C:/Users/IoT18/Documents/iar/ledTest/Debug/Exe/ledTest.out	500ce36dbf588069
+628	706	6994209856387637	C:/Users/IoT18/Documents/iar/ledTest/Debug/Exe/ledTest.hex	b9ea287c192bc45d
+1	203	7001281349651265	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/COMM/system_stm32f4xx.o	3cd930e46ac0cca6
+10	257	7001281350120433	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/STM32/stm32f4xx_gpio.o	6fb569f66ecc2d77
+5	284	7001281350432839	C:/Users/IoT18/Documents/iar/ledTest/Debug/Obj/STM32/stm32f4xx_rcc.o	65c4fad1164e76e6

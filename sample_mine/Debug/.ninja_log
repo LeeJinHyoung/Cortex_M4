@@ -1,0 +1,12 @@
+# ninja log v5
+4	27	7001283231062766	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	a6814a8f9d5f8ae8
+6	59	7001283231375857	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/COMM/stm32f4xx_it.o	89927db72cec4056
+1	146	7001283232156262	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/COMM/system_stm32f4xx.o	de1f66a99b172a60
+29	162	7001283232468694	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/main.o	142871d57ad0a702
+64	211	7001283232937327	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/STM32/stm32f4xx_gpio.o	3abd4386c488a749
+9	224	7001283232937327	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/STM32/stm32f4xx_rcc.o	5b994b885fdee66a
+226	272	7001283233562702	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Exe/sample.out	1eddee9dacb163ea
+274	282	7001283233719046	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Exe/sample.hex	b407710bd4c6066d
+1	121	7001283395087432	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Obj/main.o	142871d57ad0a702
+121	159	7001283395556198	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Exe/sample.out	1eddee9dacb163ea
+161	167	7001283395712428	C:/Users/IoT18/Documents/iar/sample_mine/Debug/Exe/sample.hex	b407710bd4c6066d

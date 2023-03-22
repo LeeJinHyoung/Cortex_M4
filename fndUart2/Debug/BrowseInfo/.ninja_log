@@ -1,0 +1,75 @@
+# ninja log v5
+94	345	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/main.xcl	c7f9137c7fd80a7c
+65	381	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2a57f9b76ca90dd8
+1	76	6994253127505024	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbd	d425af3be0188612
+51	123	6994203041953301	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	d26baf243975efa7
+276	824	6994282344241660	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+115	395	6980369290000000	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	8e240d9085b4373a
+68	295	6994246636729264	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	713dcb40898a04d
+53	483	6994203045434119	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/main.pbi	bc9c60fb2e1592f7
+39	489	6994203045590797	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	343ce87783663efd
+178	299	6994276161537551	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/misc.pbi	a7db55d5ae6e8263
+493	931	6994203049934853	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/sample.pbd	7e2b8d034b3d9184
+157	281	6994276161358960	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	8bf6527b026f1d76
+935	2570	6994203066098951	//10.10.141.253/23 자율형 공유폴더/Cortex-m4/examples/sample/Debug/BrowseInfo/sample.pbw	914705428b0d46a6
+80	144	6994276150000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/misc.xcl	6619915794c499df
+11	89	6994276150000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	fd1d2fb5e6b7a1ee
+342	399	6994234383649784	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	573a208ee536c935
+26	337	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/main.xcl	2af45c1525cbd077
+23	341	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	8439763a3808bd2f
+124	236	6994246636139023	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	54b8a06446248d95
+1	67	6994246630000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	bf7a8abff7dce5c6
+281	400	6994276162544402	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	2106b31dd78363f6
+116	189	6994282338087529	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+4	358	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	2a057da2bda51da2
+145	211	6994276160000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/uart2.xcl	88cdae676d0baefc
+28	361	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	c1740a1c7f82f1db
+7	127	6994246635023023	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	518752741bca7578
+1	59	6994247510000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.xcl	1530398f4ba23e50
+154	177	6994276160322316	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	79d4986449b2c85c
+338	410	6994234380000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	23e1914b1e700310
+2	114	6994253074949086	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/main.pbi	d01887bcf0879ee5
+60	167	6994247516915994	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/misc.pbi	413bd579d8db49c7
+11	135	6994246635132143	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	f4c66e8e7de8e837
+116	182	6994253075627148	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part2.pbi	f67bb7c01192dcc
+211	333	6994276161879789	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/uart2.pbi	e393d6a31d9b89aa
+169	234	6994247517580300	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part0.pbi	aa7f3614d0cdb629
+6	100	6994247516235753	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2_part1.pbi	504488f9f2f135e8
+113	213	6994276432237588	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part1.pbi	d3d0dff138fa01f7
+78	602	6994253132564799	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/sampleUart2.pbw	379a324368e3a21a
+1	63	6994244820000000	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.xcl	5eadac269f09f14c
+1	116	6994249195648312	C:/Users/IoT18/Documents/iar/sampleUart2/Debug/BrowseInfo/uart2.pbi	cc3b9fc4261cfebe
+8	80	6994276150000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	94c69aff82477d98
+5	86	6994276150000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	edc6eb9fba009f7
+15	92	6994276150000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.xcl	183ab1d3cc16d13b
+86	154	6994276160000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	453b1629e9eb31aa
+89	157	6994276160000000	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	fe72fa7d40231485
+1	111	6994276431221004	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	cc0fbe9a2b96caa8
+236	357	6994276162122795	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	a3e51d3716aebbc9
+299	369	6994276162241834	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part0.pbi	84a564bcb19fe9c1
+1	115	6994282337347563	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+190	274	6994282338944682	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+2	124	6994282396902479	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+126	197	6994282397635692	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+199	284	6994282398508653	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+286	831	6994282403779571	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+2	115	6994282758065028	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+117	191	6994282758809827	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+193	278	6994282759691908	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+280	860	6994282765286406	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+1	115	6994284026199349	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+116	190	6994284026948798	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+193	277	6994284027823479	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+279	827	6994284033098496	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+1	116	6994284487784625	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+117	191	6994284488543507	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+193	277	6994284489407442	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+278	823	6994284494643274	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+1	115	6994284546535404	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+116	189	6994284547275200	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+190	276	6994284548157293	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbd	bd73d03bd7f29085
+277	832	6994284553490835	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2.pbw	10a12f23ff99e45e
+1	118	6994284605555877	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+119	191	6994284606295705	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89
+2	118	6994284658183683	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/main.pbi	4a070c7e5ee95a19
+119	194	6994284658954486	C:/Users/IoT18/Documents/iar/fndUart2 - 복사본/Debug/BrowseInfo/fndUart2_part2.pbi	e6f1203669ad4f89

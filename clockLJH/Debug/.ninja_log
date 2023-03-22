@@ -1,0 +1,20 @@
+# ninja log v5
+10	173	7001365851534583	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_gpio.o	fb07bc615991e006
+243	517	7001365854971276	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_tim.o	bd8a9a32e93303cd
+193	353	7001365853252936	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/lcd.o	30e4bbcdec7986d4
+354	526	7001365854971276	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_usart.o	340ffe67e0d3ed40
+50	192	7001365851690794	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/misc.o	1b1e77ab3fea0af
+1	18	7001365849972457	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/CMSIS/startup_stm32f40_41xxx.o	ccf8ab1bcd55aede
+1	129	7001329642201348	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/tim7.o	cf1f836ede429bb7
+4	48	7001365850284873	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/COMM/stm32f4xx_it.o	b1f17ec264e58866
+7	151	7001365851222158	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/COMM/system_stm32f4xx.o	6edaaeac8a843bdb
+18	242	7001365852159435	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_rcc.o	65559ca4d1ebc08a
+307	458	7001365854346423	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/main.o	36e242b61a2f4814
+527	585	7001365855596140	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Exe/sampleUart2.out	c75889590622ad68
+587	594	7001365855753069	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Exe/sampleUart2.hex	76715392227b3808
+175	306	7001365852784286	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_syscfg.o	7e2f3fb0c55d3ada
+1	130	7001269960208893	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/tim7_fnd.o	69473669e8d01f6d
+152	290	7001365852628075	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/STM32/stm32f4xx_exti.o	64bb49171d9e7101
+292	419	7001365853877790	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/key.o	b4fae7e411994d52
+398	518	7001352116084803	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/led.o	a5fed001d091682d
+437	563	7001352116396581	C:/Users/IoT18/Documents/iar/clockLJH/Debug/Obj/timer.o	bd16281354f63428

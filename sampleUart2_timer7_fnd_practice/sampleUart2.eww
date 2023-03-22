@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\kcciProject1\kcciDevice\kcciDevice.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\sampleUart2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
